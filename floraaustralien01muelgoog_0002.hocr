@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraaustralien01muelgoog_0002.png"; bbox 0 0 3022 5004; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 379 2524 1042 2959">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 379 2524 1042 2959">
+     <span class='ocr_line' id='line_1_1' title="bbox 496 2524 962 2635; baseline -0.006 -22"><span class='ocrx_word' id='word_1_1' title='bbox 496 2524 962 2635; x_wconf 59' lang='grc' dir='ltr'>ἔῑιεῆηῃιιίπᾶῑίίιωψ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 601 2652 847 2719; baseline 0.008 -12"><span class='ocrx_word' id='word_1_2' title='bbox 601 2658 740 2719; x_wconf 65' lang='lat' dir='ltr'>mmm!</span> <span class='ocrx_word' id='word_1_3' title='bbox 759 2656 788 2707; x_wconf 80' lang='lat' dir='ltr'>tn</span> <span class='ocrx_word' id='word_1_4' title='bbox 802 2652 847 2709; x_wconf 73' lang='lat' dir='ltr'>ihr</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 379 2740 1042 2851; baseline -0.003 -34"><span class='ocrx_word' id='word_1_5' title='bbox 379 2740 498 2817; x_wconf 58' lang='lat' dir='ltr'>{elaad</span> <span class='ocrx_word' id='word_1_6' title='bbox 524 2752 686 2821; x_wconf 68' lang='lat' dir='ltr'>stantum</span> <span class='ocrx_word' id='word_1_7' title='bbox 698 2748 830 2819; x_wconf 69' lang='lat' dir='ltr'><strong>junior</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 845 2745 1042 2851; x_wconf 59' lang='lat' dir='ltr'>&amp;niumag</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 511 2853 937 2959; baseline -0.021 0"><span class='ocrx_word' id='word_1_9' title='bbox 511 2872 557 2957; x_wconf 57' lang='grc' dir='ltr'>[Ψ</span> <span class='ocrx_word' id='word_1_10' title='bbox 567 2856 730 2959; x_wconf 43' lang='lat' dir='ltr'>{W</span> <span class='ocrx_word' id='word_1_11' title='bbox 750 2853 937 2948; x_wconf 60' lang='grc' dir='ltr'>Ϊῐῦῑῐῑὶίὶῑὸ·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1516 5004">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1516 5004">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1516 5004; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1516 5004; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
